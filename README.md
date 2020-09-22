@@ -1,4 +1,4 @@
-# CryptoID
+# CryptoID - SmartContract
 This is implementation of my idea. check it out on my project-ideas repository. <br />
 
 This is just a Smart Contract.<br />
